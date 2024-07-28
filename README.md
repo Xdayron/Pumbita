@@ -5,14 +5,20 @@
 ✨ ¡Hola! Bienvenido a todos
 Actualmente programo en **JavaScript**, aunque sigo aprendiendo diferentes lenguajes (O trato de hacer eso)!
 
-Ahora mismo solo tengo un proyecto importante para mi **Nala Bot**.
+*__Ahora ando probando haciendo una pagina web de un servidor de Minecraft.__*
+
+He trabajado en un proyecto importante para mi **Nala Bot**.
 
 ## ⤳ 📝  Conocimientos:
 * Javascript
 * C#
 * Jugador de Fortnite
 
-## ⤳ 🐈  Nala Bot: 
+## ⤳ 🐈🏠  SociedadCraft Web: 
+* [Web Oficial](https://www.sociedadcraft.lat/)
+* [Repositorio](https://github.com/Xdayron/SociedadCraft-Web)
+
+## ⤳ 🐈  Nala Bot (Proyecto Antiguo | Links no sirven): 
 * [Web Oficial](https://nala-bot.ml)
 * [Soporte Nala Bot](https://discord.nala-bot.ml)
 * [Invitación Nala Bot](https://invitar.nala-bot.ml)
